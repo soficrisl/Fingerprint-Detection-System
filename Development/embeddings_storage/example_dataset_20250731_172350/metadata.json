@@ -1,0 +1,47 @@
+{
+  "timestamp": "20250731_172350",
+  "num_embeddings": 10,
+  "embedding_dim": 512,
+  "identifiers": [
+    {
+      "subject": 0,
+      "impression": 2
+    },
+    {
+      "subject": 1,
+      "impression": 2
+    },
+    {
+      "subject": 2,
+      "impression": 2
+    },
+    {
+      "subject": 3,
+      "impression": 2
+    },
+    {
+      "subject": 4,
+      "impression": 2
+    },
+    {
+      "subject": 5,
+      "impression": 2
+    },
+    {
+      "subject": 6,
+      "impression": 2
+    },
+    {
+      "subject": 7,
+      "impression": 2
+    },
+    {
+      "subject": 8,
+      "impression": 2
+    },
+    {
+      "subject": 9,
+      "impression": 2
+    }
+  ]
+}
